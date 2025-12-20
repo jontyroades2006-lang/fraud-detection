@@ -37,4 +37,4 @@ Detect fraudulent credit card transactions in highly imbalanced data.
 PR-AUC was prioritized due to severe class imbalance, ensuring reliable fraud detection.
 
 ## 🔗 Project Link
-https://github.com/your-username/fraud-detection
+https://github.com/jontyroades2006-lang/fraud-detection
