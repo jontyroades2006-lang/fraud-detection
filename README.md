@@ -4,7 +4,7 @@
 Detect fraudulent credit card transactions in highly imbalanced data.
 
 ## 📊 Dataset
-- European cardholders dataset
+- CreditCard dataset
 - 284,807 transactions
 - Class imbalance: 0.17% fraud
 
